@@ -1,0 +1,9 @@
+# VELORA CLOTHING — Delivery outcomes
+
+- [ ] Build a responsive premium men's fashion storefront using a black, charcoal grey, light grey, and off-white palette, elegant typography, spacious editorial layouts, subtle hover effects, and no gradients or excessive rounded cards.
+- [ ] Deliver the homepage with VELORA CLOTHING wordmark, desktop and mobile navigation, Home / Shop / New Arrivals / Collections / Search / Cart access, male fashion hero photography, “STYLE THAT SPEAKS.” messaging, both requested CTAs, New Arrivals, Best Sellers, six requested category links, brand story, and professional footer.
+- [ ] Include all eight requested demo products with exact names and INR prices: Oversized Black T-Shirt ₹799; Premium White Oxford Shirt ₹1,499; Beige Relaxed-Fit Trousers ₹1,299; Classic Blue Denim Jeans ₹1,599; Olive Casual Shirt ₹1,199; Black Polo T-Shirt ₹999; Beige Co-ord Set ₹2,499; Charcoal Formal Shirt ₹1,399. Each product has an image, category, suitable S–XXL sizes, and a details page.
+- [ ] Provide Shop and collection browsing across Shirts, T-Shirts, Jeans, Trousers, Polos, and Co-ord Sets with working product search, category filters, price sorting, empty state, reset state, and subtle product interactions.
+- [ ] Implement add-to-cart with selected sizes, quantity controls, removal, subtotal and automatically calculated total, plus optional local cart persistence.
+- [ ] Provide a clearly labelled demo checkout with name, phone, optional email, delivery address, city, state, PIN code, Cash on Delivery or Online Payment selection, required-field validation, and no customer-data transmission or retention.
+- [ ] Show a polished order confirmation state making clear no real order or payment was processed, and make all navigation, buttons, filters, cart controls, checkout interactions, and responsive layouts work reliably.
